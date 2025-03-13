@@ -1,6 +1,6 @@
 from fastapi import FastAPI, Body
 from fastapi.middleware.cors import CORSMiddleware
-from agent import receive_message
+from process_messages import receive_message
 from typing import Dict
 
 app = FastAPI()
