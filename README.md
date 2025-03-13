@@ -1,3 +1,1 @@
 # Example of AI agent (assistant)
-
-TBD...
